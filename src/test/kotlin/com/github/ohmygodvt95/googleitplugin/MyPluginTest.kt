@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ohmygodvt95.googleitplugin
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile
